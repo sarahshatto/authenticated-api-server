@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "name": "FirstTest",
+      "display_name": "FirstTestDisplayName",
+      "description": "FirstTestDescription",
+      "id": 1
+    },
+    {
+      "name": "Test2",
+      "display_name": "2ndTestDisplayName",
+      "description": "2ndTestDescription",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "FirstProductTest",
+      "display_name": "FirstProductTestDisplayName",
+      "description": "FirstProductTestDescription",
+      "category": "FirstProductTestCategory",
+      "id": 1
+    },
+    {
+      "name": "SecondProductTestCategory",
+      "id": 2
+    },
+    {
+      "name": "3rdProductTestCategory",
+      "display_name": "2ndProductTestDisplayName",
+      "description": "2ndProductTestDescription",
+      "category": "2ndProductTestCategory",
+      "id": 3
+    }
+  ]
+}
